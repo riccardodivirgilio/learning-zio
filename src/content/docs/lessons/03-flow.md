@@ -25,7 +25,7 @@ flowchart TD
 
 I diagrammi di flusso usano forme diverse per cose diverse:
 
-#### 1. Inizio/Fine - Forma rettangolare `[...]`
+#### 1. Inizio/Fine - Forma rettangolare
 - Dove inizia e finisce l'algoritmo
 
 ```mermaid
@@ -33,7 +33,7 @@ flowchart TD
     A[Inizio] --> B[Fine]
 ```
 
-#### 2. Azione - Forma rettangolare `[...]`
+#### 2. Azione - Forma rettangolare
 - Un passo da eseguire
 
 ```mermaid
@@ -42,7 +42,7 @@ flowchart TD
     B --> C[Fine]
 ```
 
-#### 3. Decisione - Forma a rombo `{...}`
+#### 3. Decisione - Forma a rombo
 - Una domanda con risposta Sì/No
 - L'algoritmo va in direzioni diverse in base alla risposta
 
