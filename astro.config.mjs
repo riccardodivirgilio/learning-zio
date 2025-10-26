@@ -5,6 +5,8 @@ import mermaid from "astro-mermaid";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://riccardodivirgilio.github.io",
+  base: "/learning-zio",
   integrations: [
     starlight({
       title: "Lezioni di Programmazione",
