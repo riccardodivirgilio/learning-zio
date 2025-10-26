@@ -1,5 +1,5 @@
 ---
-title: Lezione 2 - Algoritmi e Diagrammi di Flusso
+title: 02. Algoritmi e Diagrammi di Flusso
 description: Come rappresentare algoritmi con i diagrammi di flusso
 ---
 
@@ -73,18 +73,18 @@ flowchart TD
 
 Prova a creare i diagrammi di flusso per questi algoritmi:
 
-### Esercizio 1: Preparare un panino
+#### Esercizio 1: Preparare un panino
 Crea un diagramma di flusso che descrive come preparare un panino.
 Pensa a tutti i passi necessari: prendere il pane, spalmare il burro, aggiungere ingredienti, etc.
 
-### Esercizio 2: Attraversare la strada
+#### Esercizio 2: Attraversare la strada
 Crea un diagramma di flusso per attraversare la strada in sicurezza.
 Ricorda di includere una decisione: guardare se passano macchine!
 
-### Esercizio 3: Lavarsi i denti
+#### Esercizio 3: Lavarsi i denti
 Crea un diagramma di flusso che mostra come lavarsi i denti.
 Include un ciclo: devi spazzolare per almeno 2 minuti!
 
-### Esercizio 4: Trovare un libro nella libreria
+#### Esercizio 4: Trovare un libro nella libreria
 Crea un diagramma di flusso per trovare un libro specifico nella tua libreria.
 Cosa fai se il libro non c'è? Includi questa decisione nel tuo diagramma.

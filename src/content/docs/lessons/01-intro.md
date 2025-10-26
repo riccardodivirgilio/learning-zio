@@ -1,5 +1,5 @@
 ---
-title: Lezione 1 - Introduzione alla Programmazione
+title: 01. Introduzione alla Programmazione
 description: Cos'è un computer e introduzione agli algoritmi
 ---
 
