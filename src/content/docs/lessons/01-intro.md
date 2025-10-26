@@ -1,6 +1,7 @@
-# Lezione 1: Introduzione alla Programmazione
-
-## Cos'è un computer?
+---
+title: Lezione 1 - Introduzione alla Programmazione
+description: Cos'è un computer e introduzione agli algoritmi
+---
 
 **Domanda di discussione:** Secondo te, cos'è un computer?
 
