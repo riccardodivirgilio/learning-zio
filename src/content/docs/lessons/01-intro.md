@@ -1,5 +1,5 @@
 ---
-title: 01. Introduzione alla Programmazione
+title: 01. Cosa è un computer?
 description: Cos'è un computer e introduzione agli algoritmi
 ---
 
