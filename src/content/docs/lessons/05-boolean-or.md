@@ -3,7 +3,7 @@ title: 05. Logica Booleana - OR
 description: L'operatore OR nella logica booleana
 ---
 
-## L'operatore OR (O)
+## L'operatore OR
 
 L'operatore **OR** funziona così: il risultato è **Vero** se **almeno una** delle due cose è vera.
 

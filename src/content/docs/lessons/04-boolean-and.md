@@ -5,7 +5,7 @@ description: Come ragionano i computer
 
 I computer ragionano usando la **logica booleana**. È un modo di pensare che usa solo due valori: **Vero** o **Falso** (in inglese: True o False).
 
-## L'operatore AND (E)
+## L'operatore AND
 
 L'operatore **AND** funziona così: il risultato è **Vero** solo se **entrambe** le cose sono vere.
 
