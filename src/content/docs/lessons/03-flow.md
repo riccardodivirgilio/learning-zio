@@ -1,5 +1,5 @@
 ---
-title: 03. Algoritmi e Diagrammi di Flusso
+title: 03. Diagrammi di Flusso
 description: Come rappresentare algoritmi con i diagrammi di flusso
 ---
 
