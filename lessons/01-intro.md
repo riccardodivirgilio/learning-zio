@@ -1,35 +1,35 @@
-# Lesson 1: Introduction to Programming
+# Lezione 1: Introduzione alla Programmazione
 
-## What is a computer?
+## Cos'è un computer?
 
-**Discussion Question:** What do you think a computer is?
+**Domanda di discussione:** Secondo te, cos'è un computer?
 
-### Things that ARE computers:
+### Cose che SONO computer:
 - Smartphone
 - Tablet
 - Laptop
-- Desktop computer
+- Computer desktop
 - Smart TV
-- Game console (PlayStation, Xbox, Nintendo Switch)
-- Calculator
-- Smart watch
-- Car computer
+- Console per videogiochi (PlayStation, Xbox, Nintendo Switch)
+- Calcolatrice
+- Smartwatch
+- Computer dell'auto
 - Robot
 
-### Things that are NOT computers:
-- TV remote control
-- Digital alarm clock
-- LED light bulb
-- Electric toothbrush
-- Microwave oven
-- Electric fan
-- Digital thermometer
-- Battery charger
+### Cose che NON SONO computer:
+- Telecomando della TV
+- Sveglia digitale
+- Lampadina LED
+- Spazzolino elettrico
+- Forno a microonde
+- Ventilatore elettrico
+- Termometro digitale
+- Caricabatterie
 
-### The Key Difference
+### La Differenza Principale
 
-**A computer can be programmed** - you can teach it to do new things.
+**Un computer può essere programmato** - puoi insegnargli a fare cose nuove.
 
-**Other electronic devices** can only do what they were built to do.
+**Altri dispositivi elettronici** possono fare solo ciò per cui sono stati costruiti.
 
-Example: A calculator can only do math. A computer can do math AND play games AND edit videos AND anything else you program it to do.
+Esempio: Una calcolatrice può fare solo calcoli matematici. Un computer può fare calcoli matematici E giocare E modificare video E qualsiasi altra cosa per cui lo programmi.
